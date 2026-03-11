@@ -1,3 +1,3 @@
-# SeasonGridSupport
+# Privacy
 
-If you have problem about SeasonGridSupport App, please draft an issue here ;-)
+This repo contains some privacy argument of castorworks

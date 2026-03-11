@@ -2,7 +2,7 @@
 
 ## Data Collection
 
-SeasonGrid does not collect, store, or transmit any user data.
+DirectWords does not collect, store, or transmit any user data.
 
 ## What This Means
 
@@ -13,7 +13,7 @@ SeasonGrid does not collect, store, or transmit any user data.
 
 ## Local Data
 
-All data you create within SeasonGrid (assembly code, settings, etc.) remains on your device and is never transmitted externally.
+All data you create within DirectWords remains on your device and is never transmitted externally.
 
 ## Contact
 
@@ -21,4 +21,4 @@ If you have any questions about this privacy policy, please contact us through t
 
 ---
 
-*Last updated: February 2026.01*
+*Last updated: 2026.03*
