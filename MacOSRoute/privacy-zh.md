@@ -118,7 +118,4 @@
 
 ## 9. 联系我们
 
-本应用由 Chongqing Hyperits Network Technology Co., Ltd. 开发。如您对本隐私政策或本应用处理数据的方式有任何疑问，请联系我们：
-
-- 联系人：RICL
-- 邮箱：[riclavaz@gmail.com](mailto:riclavaz@gmail.com)
+本应用由 Chongqing Hyperits Network Technology Co., Ltd. 开发。如您对本隐私政策或本应用处理数据的方式有任何疑问，请在 [github.com/castorworks/MacOSRoute/issues](https://github.com/castorworks/MacOSRoute/issues) 提交 Issue。

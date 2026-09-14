@@ -118,7 +118,4 @@ We may update this Privacy Policy from time to time based on feature changes, le
 
 ## 9. Contact Us
 
-The App is developed by Chongqing Hyperits Network Technology Co., Ltd. If you have questions about this Privacy Policy or how the App processes data, please contact us:
-
-- Contact: RICL
-- Email: [riclavaz@gmail.com](mailto:riclavaz@gmail.com)
+The App is developed by Chongqing Hyperits Network Technology Co., Ltd. If you have questions about this Privacy Policy or how the App processes data, please open an issue at [github.com/castorworks/MacOSRoute/issues](https://github.com/castorworks/MacOSRoute/issues).
