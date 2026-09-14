@@ -118,4 +118,7 @@ We may update this Privacy Policy from time to time based on feature changes, le
 
 ## 9. Contact Us
 
-If you have questions about this Privacy Policy or how the App processes data, please contact us through the support information provided where you obtained the App.
+The App is developed by Chongqing Hyperits Network Technology Co., Ltd. If you have questions about this Privacy Policy or how the App processes data, please contact us:
+
+- Contact: RICL
+- Email: [riclavaz@gmail.com](mailto:riclavaz@gmail.com)

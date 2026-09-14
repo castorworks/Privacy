@@ -118,4 +118,7 @@
 
 ## 9. 联系我们
 
-如您对本隐私政策或本应用处理数据的方式有任何疑问，请通过您获取本应用的渠道所提供的支持信息与我们联系。
+本应用由 Chongqing Hyperits Network Technology Co., Ltd. 开发。如您对本隐私政策或本应用处理数据的方式有任何疑问，请联系我们：
+
+- 联系人：RICL
+- 邮箱：[riclavaz@gmail.com](mailto:riclavaz@gmail.com)
