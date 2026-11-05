@@ -2,7 +2,7 @@
 
 最后更新：2026 年 11 月 5 日
 
-Zuneyra 由重庆海珀网络科技有限公司（Chongqing Hyperits Network Technology Co., Ltd.）运营，是适用于 iPhone、iPad 和 Mac 的本地音乐播放器。无需创建账号，不包含广告、行为分析或开发者运营的数据上传服务。
+Zuneyra 由Chongqing Hyperits Network Technology Co., Ltd.运营，是适用于 iPhone、iPad 和 Mac 的本地音乐播放器。无需创建账号，不包含广告、行为分析或开发者运营的数据上传服务。
 
 ## 设备上的数据
 
